@@ -43,3 +43,5 @@ all:
 ### SDL.dll was not found
 Make sure you extracted both files in the zip. 
 
+## Todo
+- [ ] Code Documentation
